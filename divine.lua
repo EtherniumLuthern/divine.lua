@@ -1,10 +1,5 @@
 __=
-
-	"Discord: Actyrn#7104, Server: .gg/wDngb2mv4H"
-
--- Credits to Elegant & Fulcrum.#2610, the original script coders!!
-
--- DO NOT EDIT BELOW IF YOU DON'T KNOW WHAT YOU'RE DOING!!
+--!bleed#0444
 
 repeat wait() until game:IsLoaded()
 
